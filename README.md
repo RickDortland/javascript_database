@@ -1,2 +1,4 @@
 # javascript_database
-een javascipt project voor school. we moeten een database maken in javascript zonder php
+dit is een javascript project voor school.
+wij moeten een back end maaken in javascript zonder php te gebruiken.
+wij gaan dat doe door node.js een express.js te gebruiken
